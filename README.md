@@ -1,2 +1,1 @@
 # Galactic-design
-Galactic-design
